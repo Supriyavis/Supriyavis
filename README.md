@@ -4,16 +4,16 @@ I am a fourth-year Computer Science student who is passionate about web developm
 
 📌Skills  
 
-- 🔹 Languages: C, Java, Python, JavaScript, HTML, CSS  
-- 🔹 Technologies: Artificial Intelligence and Machine Learning  
-- 🔹 Tools: Git, GitHub, VS Code  
-- 🔹 Concepts: Data Structures and Algorithms, Object Oriented Programming, Database Management Systems, Digital Image Processing  
+-  Languages: C, Java, Python, JavaScript, HTML, CSS  
+-  Technologies: Artificial Intelligence and Machine Learning  
+-  Tools: Git, GitHub, VS Code  
+-  Concepts: Data Structures and Algorithms, Object Oriented Programming, Database Management Systems, Digital Image Processing  
 
 📌Projects  
 
-- 🔹 Smart AI Auto Fill Page Filler – Chrome Extension  
-- 🔹 Gemini 2.0 – Web Development Project  
-- 🔹 Intrusion Detection System – Machine Learning Project  
+-  Smart AI Auto Fill Page Filler – Chrome Extension  
+-  Gemini 2.0 – Web Development Project  
+-  Intrusion Detection System – Machine Learning Project  
 
 📌Connect With Me:
 
