@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi 👋 I’m Supriya Vishwakarma
 
-<!--
-**Supriyavis/Supriyavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a fourth-year Computer Science student who is passionate about web development, artificial intelligence, and machine learning. I enjoy continuously learning new technologies, building meaningful projects, and improving my skills by turning ideas into practical solutions.🚀
 
-Here are some ideas to get you started:
+📌Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Languages: C, Java, Python, JavaScript
+🔹 Technologies: Artificial Intelligence and Machine Learning
+🔹 Tools: Git, GitHub, VS Code
+🔹 Concepts: Data Structures and Algorithms, Object Oriented Programming, Database Management Systems, Digital Image Processing
+
+📌Projects:
+
+🔹 Smart AI Auto Fill Page Filler – Chrome Extension
+🔹 Gemini 2.0 – Web Development Project
+🔹 Intrusion Detection System – Machine Learning Project
+
+📌Connect With Me:
+
+LinkedIn: https://www.linkedin.com/in/supriya-vishwakarma-937b8b288
+
+Email: vishwakarmasupriya34@gmail.com
